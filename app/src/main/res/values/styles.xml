@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CarouselRoundedCornerImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/dp_20</item>
+    </style>
+    <style name="CarouselSubItemRoundedCornerImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/dp_10</item>
+    </style>
+</resources>

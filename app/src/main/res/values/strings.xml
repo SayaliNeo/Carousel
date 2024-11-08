@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carousel</string>
+    <string name="txt_error_occurred">Error occurred</string>
+    <string name="txt_loading">Loading</string>
+    <string name="txt_item_count">%1$s Count -> %2$d</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_analysis">Analysis</string>
+    <string name="txt_no_item_found">No item found</string>
+    <string name="top_3_characters">Top 3 Characters:</string>
+    <string name="list_character_count">%1$s -> %2$s\n\n</string>
+</resources>

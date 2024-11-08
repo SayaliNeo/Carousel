@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.Carousel" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary_color</item>
+    </style>
+
+    <style name="Theme.Carousel" parent="Base.Theme.Carousel" />
+</resources>
